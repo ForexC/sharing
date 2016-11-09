@@ -13,10 +13,10 @@
   "author": "FxOS Developers <dev-gaia@lists.mozilla.com>",
   "license": "MPL",
   "dependencies": {
-    "fxos-build": "0.7.x",
-    "gulp": "3.8.x",
+    "fxos-build": "~0.8.0",
+    "gulp": "~3.9.1",
     "adapt-pkg-main": "^1.0.0",
-    "glob": "5.0.x",
-    "requirejs": "2.1.x"
+    "glob": "~7.1.1",
+    "requirejs": "~2.3.2"
   }
 }
